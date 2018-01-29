@@ -32,7 +32,7 @@ public class TextGame {
     public void run(){
             ActionBox box = new ActionBox(player.getLocation());
             box.setVisible(true);
-            //test
+            //haha
     }
     
 }
